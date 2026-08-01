@@ -1,7 +1,7 @@
-# docker-korsairr
+# korsairr
 
 [![License](https://img.shields.io/badge/license-GPLv3-lightgreen)](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
-[![Release](https://github.com/tkimball83/docker-korsairr/actions/workflows/release.yml/badge.svg)](https://github.com/tkimball83/docker-korsairr/actions/workflows/release.yml)
+[![Release](https://github.com/tkimball83/korsairr/actions/workflows/release.yml/badge.svg)](https://github.com/tkimball83/korsairr/actions/workflows/release.yml)
 
 Continuously swab the stack
 
