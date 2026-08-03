@@ -11,7 +11,6 @@ RUN pip install -r requirements.txt
 
 RUN useradd --create-home --shell /usr/sbin/nologin korsairr
 
-COPY LICENSE .
 COPY korsairr.py .
 COPY swabbers/ swabbers/
 
